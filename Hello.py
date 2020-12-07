@@ -1,2 +1,2 @@
 print ("Hello World")
-print (" Welcome to World og Python")
+print (" Welcome to World of Python")
